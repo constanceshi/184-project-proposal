@@ -5,7 +5,7 @@
 
 ## _Nicholas Ngai, Austin Nguyen, Darren Omori, Constance Shi_
 
-![Aurora Borealis](images/aurora1.jpg)
+![Aurora Borealis](images/aurora1.jpg){: .image--medium .image--center }
 
 ## Summary
 
@@ -31,8 +31,9 @@ The fundamental goal of this project is to realistically render the appearance o
 
 Because this is not a project that involves quantifiable metrics, we will have to evaluate our performance in a qualitative fashion.  The most obvious and simple way is to holistically assess how much our rendered image resembles actual photographs of auroras.
 
-![Aurora Borealis Example 1](/images/aurora2.jpg)
-![Aurora Borealis Example 2](/images/aurora3.jpg)
+![Aurora Borealis Example 1](/images/aurora2.jpg){: .image--medium .image--center }
+
+![Aurora Borealis Example 2](/images/aurora3.jpg){: .image--medium .image--center }
 
 ### Stretch Goals
 
@@ -76,5 +77,6 @@ We will build off of the code for Project 3 pathtracer, where we will modify the
 
 Link: [https://github.com/cal-cs184-student/p3-1-pathtracer-sp21-tofu](https://github.com/cal-cs184-student/p3-1-pathtracer-sp21-tofu)
 
-![Aurora Borealis Example 3](/images/aurora4.jpg)
-![Aurora Borealis Example 4](/images/aurora5.jpg)
+![Aurora Borealis Example 3](/images/aurora4.jpg){: .image--medium .image--center }
+
+![Aurora Borealis Example 4](/images/aurora5.jpg){: .image--medium .image--center }
