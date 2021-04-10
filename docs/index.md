@@ -3,9 +3,9 @@
 
 # CS 184 Final Project Proposal: The Aurora
 
-![Aurora Borealis](images/aurora1.jpg)
+## _Nicholas Ngai, Austin Nguyen, Darren Omori, Constance Shi_
 
-_Nicholas Ngai, Austin Nguyen, Darren Omori, Constance Shi_
+![Aurora Borealis](images/aurora1.jpg)
 
 ## Summary
 
