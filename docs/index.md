@@ -3,7 +3,7 @@
 
 # CS 184 Final Project Proposal: The Aurora
 
-![Aurora Borealis](/images/aurora1.jpg")
+![Aurora Borealis](images/aurora1.jpg)
 
 _Nicholas Ngai, Austin Nguyen, Darren Omori, Constance Shi_
 
@@ -31,8 +31,8 @@ The fundamental goal of this project is to realistically render the appearance o
 
 Because this is not a project that involves quantifiable metrics, we will have to evaluate our performance in a qualitative fashion.  The most obvious and simple way is to holistically assess how much our rendered image resembles actual photographs of auroras.
 
-![Aurora Borealis Example 1](/images/aurora2.jpg")
-![Aurora Borealis Example 2](/images/aurora3.jpg")
+![Aurora Borealis Example 1](/images/aurora2.jpg)
+![Aurora Borealis Example 2](/images/aurora3.jpg)
 
 ### Stretch Goals
 
@@ -59,11 +59,11 @@ Lastly, we will finalize our aurora coloration and possibly introduce functions 
 
 The first two papers provide some insight into rendering aurora both in real time and as a general overview of the approach, as well as scientific and physical background, while the last paper is a description of a rendering approach taken by students in 2014 to simulate aurora.
 
-1. <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6380&rep=rep1&type=pdf>
+1. [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6380&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6380&rep=rep1&type=pdf)
 
-2. <https://dspace5.zcu.cz/bitstream/11025/1242/1/Lawlor.pdf>
+2. [https://dspace5.zcu.cz/bitstream/11025/1242/1/Lawlor.pdf](https://dspace5.zcu.cz/bitstream/11025/1242/1/Lawlor.pdf)
 
-3. <https://graphics.stanford.edu/courses/cs348b-competition/cs348b-14/first_report.pdf>
+3. [https://graphics.stanford.edu/courses/cs348b-competition/cs348b-14/first_report.pdf](https://graphics.stanford.edu/courses/cs348b-competition/cs348b-14/first_report.pdf)
 
 ### Computing Platform
 Our laptops - Windows, Mac and Linux, and the Hive machines
@@ -74,7 +74,7 @@ Our laptops
 ### Software
 We will build off of the code for Project 3 pathtracer, where we will modify the bsdf class, lighting functions, and bounding volume hierarchies, and possibly the ray tracer, as well as add our own classes and functions to generate the aurora.
 
-Link: <https://github.com/cal-cs184-student/p3-1-pathtracer-sp21-tofu>
+Link: [https://github.com/cal-cs184-student/p3-1-pathtracer-sp21-tofu](https://github.com/cal-cs184-student/p3-1-pathtracer-sp21-tofu)
 
-![Aurora Borealis Example 3](/images/aurora4.jpg")
-![Aurora Borealis Example 4](/images/aurora5.jpg")
+![Aurora Borealis Example 3](/images/aurora4.jpg)
+![Aurora Borealis Example 4](/images/aurora5.jpg)
