@@ -1,3 +1,6 @@
+---
+---
+
 # CS 184 Final Project Proposal: The Aurora
 
 ![Aurora Borealis](/images/aurora1.jpg")
